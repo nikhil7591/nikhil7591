@@ -1,9 +1,9 @@
-![logo](https://github.com/yourusername/yourusername/blob/main/Banner.png)
+![logo](https://github.com/nikhil7591/nikhil7591/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <hr>
 <h3 align="center">Computer Science Engineering Student specializing in AI | Full Stack Developer | Problem Solver with 150+ LeetCode solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil7591&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil7591" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 **B.E. Computer Science (AI)** at **Chitkara University** | **CGPA: 9.03/10**
@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://github.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/your-leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-leetcode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-2974292a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-kumar-2974292a9" height="30" width="40" /></a>
+<a href="https://github.com/nikhil7591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nikhil7591" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nikhilkumar0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nikhilkumar0786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,32 +58,32 @@
 
 <h3 align="left">🌟 Featured Projects:</h3>
 
-### 🎯 [IntelliChat](https://github.com/yourusername/intellichat) - Real-time Chat & Video Calling
-**Tech Stack:** React.js, Node.js, MongoDB, Socket.IO, WebRTC, Twilio  
+### 🎯 [IntelliChat](https://github.com/nikhil7591/IntelliChat) - Real-time Chat & Video Calling
+**Tech Stack:** React.js, Node.js, MongoDB, Socket.IO, WebRTC
 ⚡ 99% uptime | 📹 Sub-200ms latency | 🔐 JWT authentication | 🎨 Responsive UI
 
-### 📊 [ChatIQ](https://github.com/yourusername/chatiq) - WhatsApp Chat Analyzer with ML
+### 📊 [ChatIQ](https://github.com/nikhil7591/ChatIQ) - WhatsApp Chat Analyzer with ML
 **Tech Stack:** Python, Streamlit, Scikit-learn, NLP, Prophet  
 📈 95% parsing accuracy | 🤖 85% sentiment accuracy | 📊 Interactive dashboards
 
-### 🎓 [SlideX](https://github.com/yourusername/slidex) - AI Notes-to-PPT Generator
+### 🎓 [SlideX](https://github.com/nikhil7591/SlideX-AI-Notes-to-PPT-Generator-and-Explanation) - AI Notes-to-PPT Generator
 **Tech Stack:** Python, Streamlit, LangChain, Gemini AI, NLP  
 🤖 95% accuracy | ⚡ 80% faster PPT creation | 💡 Contextual Q&A agent
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhil7591&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)<br>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yourusername" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil7591&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nikhil7591" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil7591&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="nikhil7591" /></p>
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil7591&theme=tokyonight" alt="nikhil7591" /></p>
 
 <hr>
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nikhil7591/nikhil7591/blob/output/github-contribution-grid-snake.svg)
