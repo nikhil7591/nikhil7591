@@ -167,10 +167,14 @@
 
 <hr>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil7591&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nikhil7591" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=nikhil7591&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="nikhil7591" width="48%" />
-</p>
+</p> -->
+
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=nikhil7591&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nikhil7591" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikhil7591&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="nikhil7591" /></p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil7591&theme=tokyonight" alt="nikhil7591" />
