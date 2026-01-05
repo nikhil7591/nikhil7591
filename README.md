@@ -6,13 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil7591&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil7591" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 **B.E. Computer Science (AI)** at **Chitkara University** | **CGPA: 9.04/10**
-
-- 🔭 I'm currently working on **AI-powered applications and real-time communication systems**
-
-- 🌱 I'm currently learning **LangChain, Agentic AI, and Advanced Full Stack Development**
-
-- 🏆 **Top 50** out of 400+ teams at **HackIndia 2025**
+- 🌱 I'm currently learning **LangChain, Agentic AI, and  Full Stack Development**
 
 - 💻 Solved **150+ DSA problems** on LeetCode across Python, Java, and C++
 
