@@ -167,18 +167,11 @@
 
 <hr>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil7591&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nikhil7591" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=nikhil7591&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="nikhil7591" width="48%" />
-</p> -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil7591&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nikhil7591" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=nikhil7591&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="nikhil7591" /></td>
-    </tr>
-  </table>
-</div>
+</p>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil7591&theme=tokyonight" alt="nikhil7591" />
 </p>
